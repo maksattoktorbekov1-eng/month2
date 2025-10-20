@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b296a99-b0ad-4bf9-8491-ffdafeb67cd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworks/homework_4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.py" beforeDir="false" />
-    </list>
+    <list default="true" id="4b296a99-b0ad-4bf9-8491-ffdafeb67cd1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +66,7 @@
     "Python.homework_4_1.executor": "Run",
     "Python.homework_4_2.executor": "Run",
     "Python.homework_5.executor": "Run",
-    "Python.homework_6.executor": "Debug",
+    "Python.homework_6.executor": "Run",
     "Python.lesson1.executor": "Run",
     "Python.lesson2.executor": "Run",
     "Python.lesson_2.executor": "Run",
@@ -106,8 +95,8 @@
       <recent name="C:\Users\user\PycharmProjects\mont2\1\lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.homework_6">
-    <configuration name="homework_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.homework_6 (1)">
+    <configuration name="homework_6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homeworks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\mont2\1\homeworks\homework_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homeworks/homework_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_6.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\mont2\1\homeworks\homework_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework_6 (1)" />
         <item itemvalue="Python.homework_6" />
         <item itemvalue="Python.lesson_6" />
         <item itemvalue="Python.lesson_5 (1)" />
         <item itemvalue="Python.lesson_1" />
-        <item itemvalue="Python.homework_5" />
       </list>
     </recent_temporary>
   </component>
