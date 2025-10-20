@@ -14,7 +14,7 @@ class Friend(Person):
         self.friend_name = friend_name
 
     def introduce(self):
-        print(f"Привет, меня зовут{self.name},я друг {self.friend_name},"
+        print(f"Привет, меня зовут {self.name},я друг {self.friend_name},"
               f"я родился {self.birth_date},я работаю {self.occupation}.")
 
 
@@ -24,7 +24,7 @@ class Classmate(Person):
         self.classmate_name = classmate_name
 
     def introduce(self):
-        print(f"Привет, меня зовут{self.name},я одноклассник {self.classmate_name},"
+        print(f"Привет, меня зовут {self.name},я одноклассник {self.classmate_name},"
               f"я родился {self.birth_date},работаю {self.occupation}.")
 
 

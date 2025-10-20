@@ -10,9 +10,10 @@ class Person:
         return f"Имя: {self.name}, Дата рождения: {self.birth_date}, Профессия: {self.occupation}, Высшее образование: {edu}"
 
 
-person1 = Person("Максат", "11.09.2006", "Программист", True)
-person2 = Person("Айбек", "14.08.2007", "", False)
-person3 = Person("Ильяз", "24.04.2007", "Учитель", True)
+person1 = Person("Алибек", "12.03.2005", "Программист", True)
+person2 = Person("Айжан", "25.07.2002", "Дизайнер", False)
+person3 = Person("Марат", "10.11.2003", "Учитель", True)
+
 print(person1)
 print(person2)
 print(person3)
