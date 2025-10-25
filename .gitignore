@@ -1,0 +1,9 @@
+.venz/
+venz/
+
+.env
+__pychache__/
+
+*.db
+
+*.sqlite
