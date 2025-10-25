@@ -5,5 +5,5 @@ venz/
 __pychache__/
 
 *.db
-
+*.sqlite3
 *.sqlite
