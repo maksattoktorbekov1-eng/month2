@@ -1,5 +1,5 @@
-.venz/
-venz/
+.venv/
+venv/
 
 .env
 __pychache__/
